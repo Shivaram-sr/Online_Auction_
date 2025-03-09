@@ -1,6 +1,6 @@
 // bidController.js
-const Bid = require('../models/Bid');
-const Product = require('../models/Product');
+const Bid = require('../models/bid');
+const Product = require('../models/product');
 
 // In controllers/bidController.js
 exports.placeBid = async (req, res) => {

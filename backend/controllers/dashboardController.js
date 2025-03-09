@@ -1,6 +1,6 @@
 // controllers/dashboardController.js
-const Product = require('../models/Product');
-const Bid = require('../models/Bid');
+const Product = require('../models/product');
+const Bid = require('../models/bid');
 
 exports.getDashboardStats = async (req, res) => {
   try {
