@@ -1,0 +1,19 @@
+/* src/pages/ProductDetails.css */
+.product-details {
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.bid-form {
+    margin-top: 20px;
+}
+
+.bid-form input {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.bid-message {
+    color: green;
+    margin-top: 10px;
+}
